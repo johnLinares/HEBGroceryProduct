@@ -6,6 +6,10 @@ using System.Threading.Tasks;
 
 namespace GroceryProducts
 {
+    //This class is currently not used.  
+    //If this was a bigger scale I would use this class to keep track of all data
+    //That way I can manipulate data instead of just displaying it
+    //Thus, this is a future class
     class GroceryProductData
     {
         //////PIV//////
